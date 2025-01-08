@@ -40,6 +40,9 @@ This section outlines the structure of the data model that supports the dashboar
 ## Dashboard Overview
 This Power BI dashboard is designed to provide comprehensive insights into the performance and booking details of AtliQ Grands' properties. It consists of four main pages:
 
+
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDY1NmQ5MDctMThlOC00ODNjLWFjZDItNmQ0ODQ3YzI0MTMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+
 ### Home Page!
 
 A general overview and welcome page that guides users on how to navigate through the dashboard.  
