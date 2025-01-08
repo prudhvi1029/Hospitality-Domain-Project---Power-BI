@@ -1,4 +1,6 @@
 # AtliQ Grands Hospitality Analysis - Power BI Dashboard
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDY1NmQ5MDctMThlOC00ODNjLWFjZDItNmQ0ODQ3YzI0MTMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+
 ### Introduction :
 AtliQ Grands, a prominent chain of five-star hotels in India, has established itself as a leader in the hospitality industry over the last 20 years. Operating in major cities like Delhi, Mumbai, Bangalore, and Hyderabad, AtliQ Grands is renowned for its luxurious accommodations and exceptional service. This project aims to integrate Business and Data Intelligence into AtliQ Grands' operations to help regain market share and revenue lost to competitors and poor management decisions.
 
